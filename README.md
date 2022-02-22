@@ -20,4 +20,6 @@ revert/reset ---- reset (soft, mixed,hard)
 
 branching strategy
 
-git cherrypick
+git cherrypick ----> to move some specific changes from one branch to another branch we use git cherry-pick
+
+git cherry-pick <commit-ID>
