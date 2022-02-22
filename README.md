@@ -16,7 +16,7 @@ git clone
 
 merge/rebase
 
-revert/rebase
+revert/reset ---- reset (soft, mixed,hard)
 
 branching strategy
 
