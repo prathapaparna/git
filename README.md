@@ -25,3 +25,5 @@ git cherrypick ----> to move some specific changes from one branch to another br
 git cherry-pick <commit-ID>
   
   pull request and protect our branch (settings/add permissions)
+  
+  git tag
